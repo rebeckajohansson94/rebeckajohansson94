@@ -1,3 +1,5 @@
+<img width="1532" height="433" alt="banner-img" src="https://github.com/user-attachments/assets/cc4972ab-74bc-41ed-85cc-b602c78136c9" />
+
 ## Hi, I'm Rebecka 👋
 
 I'm a junior frontend developer currently studying frontend development with a focus on React.
