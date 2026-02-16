@@ -4,7 +4,7 @@
 
 I'm a junior frontend developer currently studying frontend development with a focus on React.
 
-I enjoy building user interfaces that are structured, easy to understand and pleasant to use. During my studies I've worked with JavaScript, React and TypeScript and built several projects focusing on state management, routing and user flows.
+I enjoy building user interfaces that are structured, easy to understand and pleasant to use. During my studies I've worked with JavaScript, React and TypeScript and built several projects focusing on state management, routing and user flows. I’m particularly interested in creating interfaces that feel clear and intuitive, where accessibility and visual structure help guide the user rather than get in the way.
 
 ---
 
