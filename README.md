@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Rebecka 👋
 
-<!--
-**rebeckajohansson94/rebeckajohansson94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior frontend developer currently studying frontend development with a focus on React.
 
-Here are some ideas to get you started:
+I enjoy building user interfaces that are structured, easy to understand and pleasant to use. During my studies I've worked with JavaScript, React and TypeScript and built several projects focusing on state management, routing and user flows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured projects
+
+- [Todo Board](https://github.com/rebeckajohansson94/todo-board) – React kanban application with drag-and-drop functionality  
+- [Loan Application Form](https://github.com/rebeckajohansson94/loan-application-form) – multi-step form built in React  
+- [Student Portal](https://github.com/rebeckajohansson94/student-portal) – React Router & Context API  
+- [Restaurant Website](https://github.com/rebeckajohansson94/my-restaurant) – responsive website built with HTML, CSS and JavaScript
+
+---
+
+### Tech I work with
+
+- HTML & CSS  
+- JavaScript & TypeScript  
+- React  
+- Tailwind & Bootstrap  
+- WordPress & Elementor
