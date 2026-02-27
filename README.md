@@ -8,19 +8,11 @@ I enjoy building user interfaces that are structured, easy to understand and ple
 
 ---
 
-### Featured projects
-
-- [Todo Board](https://github.com/rebeckajohansson94/todo-board) – React kanban application with drag-and-drop functionality  
-- [Loan Application Form](https://github.com/rebeckajohansson94/loan-application-form) – multi-step form built in React  
-- [Student Portal](https://github.com/rebeckajohansson94/student-portal) – React Router & Context API  
-- [Restaurant Website](https://github.com/rebeckajohansson94/my-restaurant) – responsive website built with HTML, CSS and JavaScript
-
----
-
 ### Tech I work with
 
 - HTML & CSS  
 - JavaScript & TypeScript  
-- React  
+- React & React Native  
+- Expo  
 - Tailwind & Bootstrap  
 - WordPress & Elementor
